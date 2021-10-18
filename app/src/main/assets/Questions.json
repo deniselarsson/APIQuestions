@@ -1,6 +1,4 @@
-{
-    "response_code": 0,
-    "results": [
+ [
         {
             "id":1,
             "question": "What country is Rome located in",
@@ -55,4 +53,3 @@
             ]
         }
     ]
-}
