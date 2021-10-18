@@ -7,5 +7,41 @@
         "optionThree": "Jamaica",
         "optionFour": "Spain",
         "correctAnswer": 2
+    },
+    {
+        "id": 1,
+        "text": "Which of these famous film/book trilogies is Gollum a part of?",
+        "optionOne": "Harry Potter",
+        "optionTwo": "The Chronicles of Narnia",
+        "optionThree": "Eragon",
+        "optionFour": "The Lord of the Rings",
+        "correctAnswer": 4
+    },
+    {
+        "id": 1,
+        "text": "What color is a dandelion before its flowers turn to pollen?",
+        "optionOne": "Yellow",
+        "optionTwo": "Blue",
+        "optionThree": "White",
+        "optionFour": "Purple",
+        "correctAnswer": 1
+    },
+    {
+        "id": 1,
+        "text": "George Harrison was a member of which famous band?",
+        "optionOne": "The Rolling Stones",
+        "optionTwo": "The Beatles",
+        "optionThree": "Led Zeppelin",
+        "optionFour": "Pink Floyd",
+        "correctAnswer": 2
+    },
+    {
+        "id": 1,
+        "text": "What's the capital city of the United States?",
+        "optionOne": "New York City, New York",
+        "optionTwo": "Philadelphia, Pennsylvania",
+        "optionThree": "Washington, D.C.",
+        "optionFour": "Los Angeles, California",
+        "correctAnswer": 3
     }
 ]
